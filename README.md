@@ -1,3 +1,5 @@
 # Automatic HTML Tag Detector
 
-![image](https://github.com/user-attachments/assets/ad72575e-49a0-4638-9c9c-31b9a1fe2884)
+The Automatic HTML Tag Detector project involves creating an intelligent system that identifies HTML tags and predicts Named Entity Recognition (NER) tags within a given text. This is achieved through a classification model that associates each entity with its relevant HTML and NER tags, ensuring accurate tagging for structured data extraction. Additionally, a dashboard is developed to provide a clear visualization of prediction results, enabling users to interactively view and analyze tag assignments and model performance.
+
+
